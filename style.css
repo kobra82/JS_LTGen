@@ -1,0 +1,12 @@
+div {
+  background-color: blue;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: max-content;
+  padding: 5px;
+}
+
+.outputlayout[type="text"] {
+  width: 1rem;
+  text-align: center;
+}
